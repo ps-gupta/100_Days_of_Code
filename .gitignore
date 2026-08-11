@@ -1,0 +1,29 @@
+# C / C++ compiled files
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# Visual Studio
+.vs/
+
+# VS Code
+.vscode/
+
+# Application/system data
+.system/
+
+# Coding history
+**/history/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build directories
+Debug/
+Release/
+x64/
+x86/
