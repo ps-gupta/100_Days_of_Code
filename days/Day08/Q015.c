@@ -1,5 +1,5 @@
 /* Write a program to input a character and check whether it is an
-uppercase alphabet, Lowercase alphabet, digit, or Special character. */
+Uppercase alphabet, Lowercase alphabet, Digit, or Special character. */
 
 #include <stdio.h>
 #include <ctype.h>
