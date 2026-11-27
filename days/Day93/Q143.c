@@ -1,3 +1,15 @@
+// Q143: Find and print the student with the highest marks.
+
+/*
+Sample Test Cases:
+Input 1:
+3 students: Ravi 101 95, Sita 102 85, Aman 103 88
+Output 1:
+Topper: Ravi (Marks: 95)
+
+*/
+
+
 #include <stdio.h>
 
 int main() {
